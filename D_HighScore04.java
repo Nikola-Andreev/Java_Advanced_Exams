@@ -7,7 +7,7 @@ import java.util.ArrayDeque;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class Problem03 {
+public class D_HighScore04 {
     public static void main(String[] args) throws IOException {
 
         BufferedReader scan = new BufferedReader(new InputStreamReader(System.in));

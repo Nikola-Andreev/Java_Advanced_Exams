@@ -7,7 +7,7 @@ import java.util.LinkedHashMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class Problem02 {
+public class C_Ascent03 {
     public static void main(String[] args) throws IOException {
 
         BufferedReader scan = new BufferedReader(new InputStreamReader(System.in));

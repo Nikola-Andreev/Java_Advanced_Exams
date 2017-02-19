@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.LinkedHashMap;
 
-public class Problem04 {
+public class B_Earthquake02 {
 
     private static LinkedHashMap<String, LinkedHashMap<String, Long>> result = new LinkedHashMap<>();
     private static int counter = 1;
